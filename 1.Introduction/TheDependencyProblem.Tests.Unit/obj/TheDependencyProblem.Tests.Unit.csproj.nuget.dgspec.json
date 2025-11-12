@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem.Tests.Unit\\TheDependencyProblem.Tests.Unit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem.Tests.Unit\\TheDependencyProblem.Tests.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem.Tests.Unit\\TheDependencyProblem.Tests.Unit.csproj",
+        "projectName": "TheDependencyProblem.Tests.Unit",
+        "projectPath": "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem.Tests.Unit\\TheDependencyProblem.Tests.Unit.csproj",
+        "packagesPath": "C:\\Users\\OmarAl-Eses\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem.Tests.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OmarAl-Eses\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem\\TheDependencyProblem.csproj": {
+                "projectPath": "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem\\TheDependencyProblem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem\\TheDependencyProblem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem\\TheDependencyProblem.csproj",
+        "projectName": "TheDependencyProblem",
+        "projectPath": "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem\\TheDependencyProblem.csproj",
+        "packagesPath": "C:\\Users\\OmarAl-Eses\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OmarAl-Eses\\Downloads\\NYeloOGWSyeUQYeMlpA3_Dependency injection course code - 2\\Dependency injection course code - 2\\1.Introduction\\TheDependencyProblem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OmarAl-Eses\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
